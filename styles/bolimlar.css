@@ -1,0 +1,28 @@
+.card ul a {
+    color: #9CA3AF;
+    text-decoration: none;
+}
+
+.card ul a:hover {
+    text-decoration: underline;
+    color: #F3F4F6;
+}
+
+
+.btn--back{
+    font-size: 14px;
+    border: 1px solid #22c55e5b;
+    padding: 2px 12px;
+    border-radius: 0.3em;
+    background-color: #22c55e29;
+    font-weight: bold;
+}
+
+
+.card h1 {
+    text-align: center;
+}
+
+.card ul {
+    margin-bottom: 10px;
+}

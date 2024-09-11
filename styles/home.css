@@ -1,0 +1,26 @@
+.card img {
+    width: 100px;
+    border-radius: 50%;
+    margin: -70px auto 0 auto;
+}
+
+
+.card h1 {
+    text-align: center;
+    margin: 10px 0;
+}
+
+.card a {
+    color: #9CA3AF;
+    text-decoration: underline;
+}
+
+.card a:hover {
+    color: #F3F4F6;
+    text-decoration: none;
+}
+
+.card ul + p{
+    margin-bottom: 10px;
+}
+
